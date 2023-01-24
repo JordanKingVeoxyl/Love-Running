@@ -195,3 +195,7 @@ hr {
     width: 100%;
     overflow: hidden;
 }
+
+#times h2 {
+    color: #fafafa;
+}
